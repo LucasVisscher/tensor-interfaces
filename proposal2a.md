@@ -21,11 +21,6 @@ typedef enum
     ...
 } XXX_datatype;
 
-typedef enum
-{
-    XXX_TYPE_F32_F32_ACCUM_F32 = XXX_TYPE_F32,
-    ...
-} XXX_comp_datatype;
 ```
 Enumerations for the supported storage and computational datatypes. Not all combinations are required to be supported.
 
